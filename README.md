@@ -1,5 +1,3 @@
-![Header Image](https://example.com/header-image.jpg)
-
 # Hi there, I'm Patrick Virgile👋
 
 I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize in **Industrial IoT**, **HMI development**, and **3D visualization** with tools like **Three.js**. I also have experience in **HMI Implementation**,**Client Server Application**, **AR development**, **AI**, and **real-time communication** systems, using technologies such as **C#**, **.NET**, **WPF**, **Vue.js**, **TypeScript**, and **Unity**.
