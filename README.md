@@ -17,10 +17,11 @@ I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize i
 
 | **Category** | **Technologies** |
 | - | - |
-**Core** | [![C#](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://visualstudio.microsoft.com/de/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF)](https://dart.dev/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/)
+**Core** | [![C#](https://img.shields.io/static/v1?label=&message=C#&color=00ADD8&logo=c#&logoColor=FFFFFF)](https://visualstudio.microsoft.com/de/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF)](https://dart.dev/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/)
 **Frontend** | [![WPF](https://img.shields.io/static/v1?label=&message=Astro&color=a545f0&logo=astro&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-9.0) [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![Unity](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://unity.com/de) <br> [![three.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://github.com/mrdoob/three.js/)
 **AI/KI/Computer Vision** | [![TensorFlow](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://www.tensorflow.org/) [![Pytorch](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://pytorch.org/) [![OpenCv](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://opencv.org/)
-**Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/) [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) 
+**Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/) [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/)
+**Database** | [![MongoDB](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.mongodb.com/) [![CouchDB](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://couchdb.apache.org/) [![Firebase](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://firebase.google.com/) [![SQL](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://de.wikipedia.org/wiki/SQL)
 **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![AzureDevOps](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.gartner.com/reviews/market/devops-platforms/vendor/microsoft/product/azure-devops) [![GitLab](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&logo=circleci&logoColor=FFFFFF)](https://www.gartner.com/reviews/market/devops-platforms/vendor/gitlab)
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/) [![NUnit](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![MSTest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://learn.microsoft.com/de-de/dotnet/core/testing/unit-testing-with-mstest)
@@ -28,28 +29,8 @@ I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize i
 **IDE&Editors** | [![Visual Studio](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://visualstudio.microsoft.com/de/) [![Android Studio](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://developer.android.com/studio?hl=de) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)  [![PyCharm](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://www.jetbrains.com/de-de/pycharm/)
 
 ----      
-
   </p>
-
-# Tech Stack
-
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&q=&type=&language=vue&sort=) [🌐](https://vuejs.org/) | [![lissy93/dashy](https://img.shields.io/static/v1?label=&message=dashy&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/lissy93/dashy) [![all-the-countries](https://img.shields.io/static/v1?label=&message=all-the-countries&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/all-the-countries) [![alicia-sykes-website](https://img.shields.io/static/v1?label=&message=alicia-sykes-website&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/alicia-sykes-website) [![tfl-lift-availability-dash](https://img.shields.io/static/v1?label=&message=tfl-lift-availability-dash&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/tfl-lift-availability-dash) |
-
-
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
-<details>
   
-## 💻 Technologies & Tools:
-- **Languages**: C#, Java, TypeScript, JavaScript, Python
-- **Frameworks**: .NET Core, Vue.js, Unity
-- **Tools**: MQTT, Docker, Three.js, TensorFlow, Caffe, OpenCV
-- **Databases**: MongoDB, Firebase, CouchDb , SQL
-- **Other**: GitHub, GitLab, Docker, CI/CD
-
 ## 🚀 What I'm working on:
 - Developing innovative solutions for **Industrial 4.0**, integrating **MQTT**, **3D visualizations**, and **HMI**.
 - Working on **AR applications** to assist with remote industrial support.
@@ -74,7 +55,7 @@ I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize i
 
 ### ⚡ Fun facts:
 - I'm always tinkering with **Linux** and **dotfiles**.
-- I have a small **homelab** to host personal services and learn about **AI , AR**.
+- I have a small **homelab** to host personal services , Having fun with electronic boards — **Raspberry Pi, Arduino, and the whole gang ! ;)** 🎛️💡 and learn about **AI , AR**.
 - I enjoy **sports**, spending time with friends, and exploring the latest in **tech**.
 
 ---
