@@ -2,16 +2,9 @@
 
 I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize in **Industrial IoT**, **HMI development**, and **3D visualization** with tools like **Three.js**. I also have experience in **HMI Implementation**,**Client Server Application**, **AR development**, **AI**, and **real-time communication** systems, using technologies such as **C#**, **.NET**, **WPF**, **Vue.js**, **TypeScript**, and **Unity**.
 
-## 🚀 What I'm working on:
-- Developing innovative solutions for **Industrial 4.0**, integrating **MQTT**, **3D visualizations**, and **HMI**.
-- Working on **AR applications** to assist with remote industrial support.
-- Exploring **AI techniques** and **computer vision** for real-time systems.
-
 <!-- Tech Stack -->  
-<details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
-
 | **Category** | **Technologies** |
 | - | - |
 **Frontend** | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=a545f0&logo=astro&logoColor=FFFFFF)](https://astro.build/)<br>[![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/) [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/)
@@ -22,13 +15,8 @@ I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize i
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/) [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
-      
- See **[➡️ Full Tech Stack](https://github.com/Lissy93/Lissy93/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies
-
 ----      
-
   </p>
-</details>
 
 ## 💻 Technologies & Tools:
 - **Languages**: C#, Java, TypeScript, JavaScript, Python
@@ -37,6 +25,11 @@ I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize i
 - **Databases**: MongoDB, Firebase, CouchDb , SQL
 - **Other**: GitHub, GitLab, Docker, CI/CD
 
+## 🚀 What I'm working on:
+- Developing innovative solutions for **Industrial 4.0**, integrating **MQTT**, **3D visualizations**, and **HMI**.
+- Working on **AR applications** to assist with remote industrial support.
+- Exploring **AI techniques** and **computer vision** for real-time systems.
+  
 ## 🛠️ Current Projects:
 - [Project 1](https://github.com/VirgileDjimgou/Project-1) - Real-time industrial support system using AR and IoT.
 - [Project 2](https://github.com/VirgileDjimgou/Project-2) - HMI interface for industrial equipment using Vue.js and MQTT.
