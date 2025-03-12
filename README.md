@@ -15,6 +15,18 @@ I'm a **Software Engineer** based in **Stuttgart, Germany** 🌍. I specialize i
 <summary><b>🛠️ Tech Stack</b></summary>
     <p>
 
+# Tech Stack
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&q=&type=&language=vue&sort=) [🌐](https://vuejs.org/) | [![lissy93/dashy](https://img.shields.io/static/v1?label=&message=dashy&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/lissy93/dashy) [![all-the-countries](https://img.shields.io/static/v1?label=&message=all-the-countries&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/all-the-countries) [![alicia-sykes-website](https://img.shields.io/static/v1?label=&message=alicia-sykes-website&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/alicia-sykes-website) [![tfl-lift-availability-dash](https://img.shields.io/static/v1?label=&message=tfl-lift-availability-dash&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/tfl-lift-availability-dash) |
+
+
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+<details>
+
 | **Category** | **Technologies** |
 | - | - |
 **Core** | [![C#](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://visualstudio.microsoft.com/de/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF)](https://dart.dev/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![Node.js](https://img.shields.io/static/v1?
