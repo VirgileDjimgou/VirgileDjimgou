@@ -39,10 +39,9 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
 - Exploring **AI techniques** and **computer vision** for real-time systems.
   
 ## 🛠️ Current Projects:
-- [Project 1](https://github.com/VirgileDjimgou/Project-1) - Real-time industrial support system using AR and IoT.
-- [Project 2](https://github.com/VirgileDjimgou/Project-2) - HMI interface for industrial equipment using Vue.js and MQTT.
-- [Project 3](https://github.com/VirgileDjimgou/Project-3) - MQTT-based communication system for factory floor management.
-- [Project 4](https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition) - Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
+- [Project 1](https://github.com/VirgileDjimgou/Fabrik3D) - 🏭 Industrial Simulator - Robot & CNC Cell (Vue.js + ASP.NET Core + MQTT + MongoDB) 
+- [Project 2](https://github.com/VirgileDjimgou/Project-3) - Real-time Technical Support system using AR and IoT.
+- [Project 3](https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition) - Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
 ## 📬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/patrick-virgile-djimgou/)
