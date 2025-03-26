@@ -39,7 +39,7 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
 - Exploring **AI techniques** and **computer vision** for real-time systems.
   
 ## 🛠️ Current Projects:
-- [Fabrik3D](https://github.com/VirgileDjimgou/Fabrik3D) - 🏭 Industrial Simulator - Robot & CNC Cell (Vue.js + ASP.NET Core + MQTT + MongoDB) 
+- [Fabrik3DLite](https://github.com/VirgileDjimgou/Fabrik3DLite) - 🏭 Industrial Simulator - Robot & CNC Cell (Vue.js + ASP.NET Core + MQTT + MongoDB) 
 - [Project XYXY :)](https://github.com/VirgileDjimgou/Project-3) - Real-time Technical Support system using AR and IoT.
 - [APTSR](https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition) - Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
