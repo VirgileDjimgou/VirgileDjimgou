@@ -2,11 +2,11 @@
 
 <p align="center">
    <kbd>
-  <a href="https://dev.to/virgiledjimgou58" title="Dev.to - @virgiledjimgou58"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/979052/chichikolon65" title="StackOverflow - Virgile Patrick"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/patrick-virgile-djimgou/" title="LinkedIn - Patrick DJimgou"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/virgiledjimgou58" title="Reddit - u/virgiledjimgou58"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
-  <a href="http://virgiledjimgou.esy.es/" title="Personal Website - virgiledjimgou.esy.es"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://dev.to/virgiledjimgou58" title="Dev.to - @virgiledjimgou58"><img src="https://img.shields.io/badge/-VirgilDjimg58-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/979052/chichikolon65" title="StackOverflow - Virgile Patrick"><img src="https://img.shields.io/badge/-PatrickDji-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/patrick-virgile-djimgou/" title="LinkedIn - Patrick DJimgou"><img src="https://img.shields.io/badge/-Patrick_Djimgou-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/virgiledjimgou58" title="Reddit - u/virgiledjimgou58"><img src="https://img.shields.io/badge/-PatDji58-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="http://virgiledjimgou.esy.es/" title="Personal Website - virgiledjimgou.esy.es"><img src="https://img.shields.io/badge/-virgiledjimgou.esy.es-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
