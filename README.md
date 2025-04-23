@@ -39,26 +39,20 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
 - Exploring **AI techniques** and **computer vision** for real-time systems.
   
 ## 🛠️ Current Projects:
+- [DriveGuide AR](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
+- [ClarifAI XR](https://github.com/VirgileDjimgou/Project-3) - Real-time Technical Support system using AR and IoT, – Remote Industrial Guidance in Augmented Reality.
 - [Fabrik3DLite](https://github.com/VirgileDjimgou/Fabrik3DLite) - 🏭 Industrial Simulator - Robot & CNC Cell (Vue.js + ASP.NET Core + MQTT + MongoDB) 
-- [Project XYXY :)](https://github.com/VirgileDjimgou/Project-3) - Real-time Technical Support system using AR and IoT.
-- [APTSR](https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition) - Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
 ## 📬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/patrick-virgile-djimgou/)
 - [Twitter](https://twitter.com/not-yet) :) 
 
----
-
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirgileDjimgou&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
 
 ### ⚡ Fun facts:
 - I'm always tinkering with **Linux** and **dotfiles**.
 - I have a small **homelab** to host personal services , Having fun with electronic boards — **Raspberry Pi, Arduino, and the whole gang ! ;)** 🎛️💡 and learn about **AI , AR**.
 - I enjoy **sports**, spending time with friends, and exploring the latest in **tech**.
-
----
 
 > "Innovation is the ability to see change as an opportunity - not a threat." - **Steve Jobs**
