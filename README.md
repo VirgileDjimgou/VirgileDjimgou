@@ -41,7 +41,7 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
 ## 🛠️ Current Projects:
 - [DriveGuide AR](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
 - [ClarifAI XR](https://github.com/VirgileDjimgou/Project-3) - Real-time Technical Support system using AR and IoT, – Remote Industrial Guidance in Augmented Reality.
-- [Fabrik3DLite](https://github.com/VirgileDjimgou/Fabrik3DLite) - 🏭 Industrial Simulator - Robot & CNC Cell (Vue.js + ASP.NET Core + MQTT + MongoDB) 
+- [Fabrik3DLite](https://github.com/VirgileDjimgou/Fabrik3DLite) - 🏭 Industrial Simulator - Robot & CNC Cell , Fabrik3D Lite is a lightweight and modular simulator for industrial cell operations, designed for education, training, and early-stage prototyping.
 
 ## 📬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/patrick-virgile-djimgou/)
