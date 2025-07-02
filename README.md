@@ -40,7 +40,7 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
   
 ## 🛠️ Current Projects:
 - [DriveGuide AR](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
-- [ClarifAI XR](https://github.com/VirgileDjimgou/ClarifAI) - Real-time Technical Support system using AR and IoT, – Remote Industrial Guidance in Augmented Reality.
+- [Pii XR](https://github.com/VirgileDjimgou/ClarifAI) - Real-time Technical Support system using AR and IoT, – Remote Industrial Guidance in Augmented Reality.
 
 ## 📬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/patrick-virgile-djimgou/)
