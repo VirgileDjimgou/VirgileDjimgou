@@ -39,7 +39,7 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
 - Exploring **AI techniques** and **computer vision** for real-time systems.
   
 ## 🛠️ Current Projects:
-- [DriveGuide AR](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
+- [Lyna](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
 - [Pii XR](https://github.com/VirgileDjimgou/ClarifAI) - Real-time Technical Support system using AR and IoT, – Remote Industrial Guidance in Augmented Reality.
 
 ## 📬 Let's Connect:
