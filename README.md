@@ -40,7 +40,7 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
   
 ## 🛠️ Current Projects:
 - [Lyna](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
-- [Pii XR](https://github.com/VirgileDjimgou/ClarifAI) - Real-time Technical Support system using AR and IoT, – Remote Industrial Guidance in Augmented Reality.
+- [DriveGuard](https://github.com/VirgileDjimgou/DriveGuard) - DriveGuard AI is a prototype driver monitoring platform that can analyze video locally, orchestrate backend review flows, and now perform Android edge pre-triage before sending only useful clips to the server.
 
 ## 📬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/patrick-virgile-djimgou/)
