@@ -39,7 +39,7 @@ In addition to my work, I’m an advocate for privacy, security, and efficiency 
 - Exploring **AI techniques** and **computer vision** for real-time systems.
   
 ## 🛠️ Current Projects:
-- [Lyna](https://github.com/VirgileDjimgou/DriveGuideAR) – Augmented Reality Assistant for In-Car Intelligence
+- [Fabrik3DLite](https://github.com/VirgileDjimgou/Fabrik3DLite) – Industrial Simulator - Robot & CNC Cell , Fabrik3D Lite is a lightweight and modular simulator for industrial cell operations, designed for education, training, and early-stage prototyping.(Vue.js + ASP.NET Core + MQTT + MongoDB)
 - [DriveGuard](https://github.com/VirgileDjimgou/DriveGuard) - DriveGuard AI is a prototype driver monitoring platform that can analyze video locally, orchestrate backend review flows, and now perform Android edge pre-triage before sending only useful clips to the server.
 
 ## 📬 Let's Connect:
